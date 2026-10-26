@@ -1,6 +1,18 @@
+<p align="center"><img src="assets/banner.png" alt="NovaOS" width="720"></p>
+
 # NovaOS
 
 A calm, modern launcher for the PSP that replaces the XMB. Black room, one lit game. Runs on custom firmware **ARK-4** and **ARK-5**.
+
+## Screenshots
+
+These are the design frames the interface is built to match, drawn at the PSP's native 480×272 and shown here at 3×.
+
+| | |
+|---|---|
+| ![Home](screenshots/home.png)<br>**Home**: your last played game, music and quick launch | ![Games](screenshots/games.png)<br>**Games**: the lit game against its dimmed neighbours |
+| ![Now playing](screenshots/now-playing.png)<br>**Now playing** | ![Control Center](screenshots/control-center.png)<br>**Control Center**: brightness, volume, Wi-Fi, USB, Exit to XMB |
+| ![Theme](screenshots/settings-theme.png)<br>**Settings → Theme**: six accent colours | ![Background](screenshots/custom-background.png)<br>**Backgrounds**: black by default, with built-in options and your own wallpaper |
 
 ## Requirements
 
