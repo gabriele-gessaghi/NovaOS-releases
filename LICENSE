@@ -1,0 +1,27 @@
+NovaOS Binary License
+
+Copyright (c) 2026 Gabriele Gessaghi. All rights reserved.
+
+The NovaOS source code is proprietary and is not licensed to you. This
+license covers only the compiled NovaOS program files (EBOOT.PBP and the
+release zips) published in the NovaOS-releases repository.
+
+You may:
+  - use NovaOS for free, for personal, non-commercial purposes;
+  - copy and redistribute the unmodified release files, free of charge,
+    as long as this license and the NOTICE file stay with them.
+
+You may not:
+  - sell NovaOS or include it in anything sold;
+  - modify, decompile, disassemble or reverse engineer NovaOS, except
+    where the law allows it despite this restriction;
+  - remove or change the copyright notice or this license;
+  - present NovaOS or a modified copy of it as your own work.
+
+NovaOS is not affiliated with or endorsed by Sony. "PSP", "PlayStation"
+and "XMB" are trademarks of their owners.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. TO THE
+EXTENT THE LAW ALLOWS, THE AUTHOR IS NOT LIABLE FOR ANY DAMAGE, INCLUDING
+DAMAGE TO YOUR PSP, MEMORY STICK OR DATA, ARISING FROM USE OF THE SOFTWARE.
+Using custom firmware and homebrew is at your own risk.
