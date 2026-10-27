@@ -4,6 +4,13 @@
 
 A calm, modern launcher for the PSP that replaces the XMB. Black room, one lit game. Runs on custom firmware **ARK-4** and **ARK-5**.
 
+<p align="center">
+  <img src="screenshots/home-device.png" alt="Home" width="32%">
+  <img src="screenshots/games-device.png" alt="Games" width="32%">
+  <img src="screenshots/library.png" alt="Library" width="32%">
+</p>
+<p align="center"><sub>Home, Games and Library, captured on a real PSP-3004.</sub></p>
+
 ## Screenshots
 
 These are the design frames the interface is built to match, drawn at the PSP's native 480×272 and shown here at 3×.
